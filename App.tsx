@@ -2,7 +2,6 @@ import React from 'react';
 import {SafeAreaView, ScrollView, StyleSheet, Text} from 'react-native';
 import {ButtonOutline} from 'react-native-ui-buttons';
 
-
 const App = () => {
     return (
         <SafeAreaView>
