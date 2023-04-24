@@ -4,7 +4,6 @@ import {ButtonOutline} from 'react-native-ui-buttons';
 
 
 const App = () => {
-
     return (
         <SafeAreaView>
             <ScrollView style={styles.container}>
@@ -16,7 +15,6 @@ const App = () => {
             </ScrollView>
         </SafeAreaView>
     );
-
 };
 
 const styles = StyleSheet.create({
